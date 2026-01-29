@@ -5,13 +5,13 @@ import logging
 import csv
 import matplotlib.pyplot as plt
 
-
+print("Signal Processing with FIR Filter")
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 os.chdir(SCRIPT_DIR)
 
 
-## yesterday code
+## yesterday code Uad
 
 class Uad():
     def __init__(self):
